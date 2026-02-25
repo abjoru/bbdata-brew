@@ -3,7 +3,7 @@ class Dotf < Formula
   homepage "https://github.com/abjoru/dotf-v3"
   version "3.0.5"
   url "https://github.com/abjoru/dotf-v3/releases/download/v#{version}/dotf-v#{version}-macos-arm64"
-  sha256 "PLACEHOLDER"
+  sha256 "d683cf10b2780418c828b1e98e7669807dc400160e75f18f4dd204324173c4d7"
   license "BSD-3-Clause"
 
   depends_on :macos
